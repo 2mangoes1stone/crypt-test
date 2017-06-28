@@ -1,5 +1,5 @@
 const express = require('express')
-const fetch =  require('isomorphic-fetch')
+const fetch = require('isomorphic-fetch')
 
 const router = express.Router()
 

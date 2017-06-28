@@ -1,0 +1,1 @@
+- yarn add isomorphic-fetch es6-promise
